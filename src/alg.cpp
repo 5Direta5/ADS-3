@@ -77,7 +77,7 @@ int counter(const int& a, const int& b , const char& el)
     }
 }
 
-} 
+
 int eval(std::string pst)
 {
     int summ{ 0 };
